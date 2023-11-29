@@ -4,8 +4,12 @@
 
 Welcome to the Modern News Application, a sleek and intuitive web-based platform for staying updated with the latest news. This application is designed with a user-friendly interface, allowing you to effortlessly navigate through different news topics and read articles in a beautiful card format.
 
+![News App Logo](/news_UI.jpg)
+
 # Demo
 Before you dive into the project, check out a live demo [here](https://abhimanyu668.github.io/News_App/).
+
+
 
 # Features
 
